@@ -1,0 +1,5 @@
+name: SignColor
+main: de.tehmanu.signcolor.SignColorPlugin
+version: 1.0
+author: TehManu
+api-version: 1.19
